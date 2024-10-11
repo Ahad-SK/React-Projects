@@ -1,0 +1,14 @@
+.calculator{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+}
+
+.content{
+border: 2px solid black;
+  width: fit-content;
+  flex-direction: column;
+  height: 40vh;
+  border-radius: 10px;
+}

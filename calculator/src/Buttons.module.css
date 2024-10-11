@@ -1,0 +1,12 @@
+.Buttons{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
+    gap: 10px; /* Space between buttons */
+    margin: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.C ,.one, .two, .three, .plus ,.four ,.five ,.six{
+    padding: 10px ;
+}
+

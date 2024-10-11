@@ -1,0 +1,19 @@
+center{
+    display: flex;;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 90vh;
+    
+}
+.Heading{
+    border: 2px solid black;
+    padding: 20px 10px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.Statement{
+    margin: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
